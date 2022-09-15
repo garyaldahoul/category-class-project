@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{53D04049-48D7-41BF-A78C-5ACEB65AC8D2}|Default">
-  <MonoDevelop.Ide.ItemProperties.CategoryClassProject FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CategoryClassProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CategoryClassProject/Program.cs">
+    <Files>
+      <File FileName="CategoryClassProject/Program.cs" Line="86" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CategoryClassProject" expanded="True">
+            <Node name="CategoryClassProject" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

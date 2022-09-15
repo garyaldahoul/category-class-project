@@ -91,19 +91,36 @@ while (true)
 }
 
 
-List<Product> sortProductsList = items.OrderBy(product => Int32.Parse(product.ProductPrice)).ToList();
+
+//// Sort first way...
+
+//List<Product> sortProductsList = items.OrderBy(product => Int32.Parse(product.ProductPrice)).ToList();
+
+//Console.WriteLine("Category".PadRight(50) + "Product Name".PadRight(50) +
+//"Price");
+
+//foreach (Product product in sortProductsList)
+//{
+//    Console.WriteLine(product.Category.CategoryName.PadRight(50) + product.ProductName.PadRight(50) + product.ProductPrice);
+
+//}
+
+// Sort linq...
+var sortProducts = from item in items orderby item.ProductPrice ascending select item;
 
 Console.WriteLine("Category".PadRight(50) + "Product Name".PadRight(50) +
 "Price");
 
-foreach (Product product in sortProductsList)
+foreach (Product product in sortProducts)
 {
     Console.WriteLine(product.Category.CategoryName.PadRight(50) + product.ProductName.PadRight(50) + product.ProductPrice);
 
 }
 
-int totalProductsPrice = sortProductsList.Sum(product => Int32.Parse(product.ProductPrice));
+int totalProductsPrice = sortProducts.Sum(product => Int32.Parse(product.ProductPrice));
 Console.WriteLine("The Total Price For All Products : " + totalProductsPrice);
+
+
 
 
 Console.ReadLine();
