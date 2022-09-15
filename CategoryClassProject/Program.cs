@@ -80,14 +80,6 @@ while (true)
 
         newProduct.ProductPrice = productPrice;
         items.Add(newProduct);
-        Console.WriteLine(newProduct.Category);
-        Console.WriteLine(newProduct.ProductName);
-        Console.WriteLine("Hkdfjkdjfkdjfjdkfjdjfldjlfjdl");
-
-
-
-
-
 
         enterCategoryName = false;
         enterProductName = false;
