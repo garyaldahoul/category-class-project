@@ -1,0 +1,15 @@
+/Users/User/Projects/CategoryClassProject/CategoryClassProject/bin/Debug/net6.0/CategoryClassProject
+/Users/User/Projects/CategoryClassProject/CategoryClassProject/bin/Debug/net6.0/CategoryClassProject.deps.json
+/Users/User/Projects/CategoryClassProject/CategoryClassProject/bin/Debug/net6.0/CategoryClassProject.runtimeconfig.json
+/Users/User/Projects/CategoryClassProject/CategoryClassProject/bin/Debug/net6.0/CategoryClassProject.dll
+/Users/User/Projects/CategoryClassProject/CategoryClassProject/bin/Debug/net6.0/CategoryClassProject.pdb
+/Users/User/Projects/CategoryClassProject/CategoryClassProject/obj/Debug/net6.0/CategoryClassProject.csproj.AssemblyReference.cache
+/Users/User/Projects/CategoryClassProject/CategoryClassProject/obj/Debug/net6.0/CategoryClassProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Projects/CategoryClassProject/CategoryClassProject/obj/Debug/net6.0/CategoryClassProject.AssemblyInfoInputs.cache
+/Users/User/Projects/CategoryClassProject/CategoryClassProject/obj/Debug/net6.0/CategoryClassProject.AssemblyInfo.cs
+/Users/User/Projects/CategoryClassProject/CategoryClassProject/obj/Debug/net6.0/CategoryClassProject.csproj.CoreCompileInputs.cache
+/Users/User/Projects/CategoryClassProject/CategoryClassProject/obj/Debug/net6.0/CategoryClassProject.dll
+/Users/User/Projects/CategoryClassProject/CategoryClassProject/obj/Debug/net6.0/refint/CategoryClassProject.dll
+/Users/User/Projects/CategoryClassProject/CategoryClassProject/obj/Debug/net6.0/CategoryClassProject.pdb
+/Users/User/Projects/CategoryClassProject/CategoryClassProject/obj/Debug/net6.0/CategoryClassProject.genruntimeconfig.cache
+/Users/User/Projects/CategoryClassProject/CategoryClassProject/obj/Debug/net6.0/ref/CategoryClassProject.dll
